@@ -1,0 +1,14 @@
+[package]
+name = "acpi-nostd"
+version = "0.1.0"
+edition = "2021"
+authors = ["Matt Gates <suhteevah@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "no_std ACPI table parser with power management — RSDP, RSDT/XSDT, MADT, FADT, MCFG, HPET, shutdown/reboot"
+repository = "https://github.com/suhteevah/acpi-nostd"
+keywords = ["acpi", "hardware", "power", "no_std", "bare-metal"]
+categories = ["no-std", "hardware-support", "os"]
+readme = "README.md"
+
+[dependencies]
+log = { version = "0.4", default-features = false }
