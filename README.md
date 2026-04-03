@@ -127,3 +127,15 @@ at your option.
 ## Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in this work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
+
+---
+
+## Support This Project
+
+If you find this project useful, consider buying me a coffee! Your support helps me keep building and sharing open-source tools.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/baal_hosting)
+
+**PayPal:** [baal_hosting@live.com](https://paypal.me/baal_hosting)
+
+Every donation, no matter how small, is greatly appreciated and motivates continued development. Thank you!
