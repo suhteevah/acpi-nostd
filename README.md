@@ -162,6 +162,8 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 
 ---
 
+---
+
 ## Support This Project
 
 If you find this project useful, consider buying me a coffee! Your support helps me keep building and sharing open-source tools.
